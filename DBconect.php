@@ -1,8 +1,8 @@
 <?php
-$db_host="localhost"; //localhost server 
-$db_user="root";	//database username
-$db_password="";	//database password   
-$db_name="prueba";	//database name
+$db_host="b7lofr9uqlk0z6vh6den-mysql.services.clever-cloud.com"; //localhost server 
+$db_user="u5pnv6f2wskqv3nt";	//database username
+$db_password="6ks15jig2tHVUrzDv1cm";	//database password   
+$db_name="b7lofr9uqlk0z6vh6den";	//database name
 
 try
 {
